@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JOBANEWS/static/css/main.a4efb500.chunk.css",
+    "main.js": "/JOBANEWS/static/js/main.014c663f.chunk.js",
+    "main.js.map": "/JOBANEWS/static/js/main.014c663f.chunk.js.map",
+    "runtime-main.js": "/JOBANEWS/static/js/runtime-main.d2606883.js",
+    "runtime-main.js.map": "/JOBANEWS/static/js/runtime-main.d2606883.js.map",
+    "static/js/2.941b321a.chunk.js": "/JOBANEWS/static/js/2.941b321a.chunk.js",
+    "static/js/2.941b321a.chunk.js.map": "/JOBANEWS/static/js/2.941b321a.chunk.js.map",
+    "static/js/3.68f5b042.chunk.js": "/JOBANEWS/static/js/3.68f5b042.chunk.js",
+    "static/js/3.68f5b042.chunk.js.map": "/JOBANEWS/static/js/3.68f5b042.chunk.js.map",
+    "index.html": "/JOBANEWS/index.html",
+    "static/css/main.a4efb500.chunk.css.map": "/JOBANEWS/static/css/main.a4efb500.chunk.css.map",
+    "static/js/2.941b321a.chunk.js.LICENSE.txt": "/JOBANEWS/static/js/2.941b321a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2606883.js",
+    "static/js/2.941b321a.chunk.js",
+    "static/css/main.a4efb500.chunk.css",
+    "static/js/main.014c663f.chunk.js"
+  ]
+}
