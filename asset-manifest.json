@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JOBANEWS/static/css/main.a4efb500.chunk.css",
-    "main.js": "/JOBANEWS/static/js/main.83b4c897.chunk.js",
-    "main.js.map": "/JOBANEWS/static/js/main.83b4c897.chunk.js.map",
+    "main.js": "/JOBANEWS/static/js/main.b6620a9c.chunk.js",
+    "main.js.map": "/JOBANEWS/static/js/main.b6620a9c.chunk.js.map",
     "runtime-main.js": "/JOBANEWS/static/js/runtime-main.d2606883.js",
     "runtime-main.js.map": "/JOBANEWS/static/js/runtime-main.d2606883.js.map",
     "static/js/2.941b321a.chunk.js": "/JOBANEWS/static/js/2.941b321a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d2606883.js",
     "static/js/2.941b321a.chunk.js",
     "static/css/main.a4efb500.chunk.css",
-    "static/js/main.83b4c897.chunk.js"
+    "static/js/main.b6620a9c.chunk.js"
   ]
 }
